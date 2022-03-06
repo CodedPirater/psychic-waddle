@@ -124,5 +124,8 @@ def main():
         pygame.display.update()
 
     pygame.quit()
+"""
+A planet simulation in python using pygame module.
+"""
 
 main()
